@@ -7,3 +7,6 @@ Classify images with tomatoes from different dishes
 - Image classification is done by fine tuning Vgg16
 - data.zip: Some of sample training images
 - train_database.txt: Bounding boxes
+
+- tomato_classify notebook for classification.
+- tomatolocalize for detection
